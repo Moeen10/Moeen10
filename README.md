@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moeen</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="100">
+Hi 👋, I'm Moeen <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100"></h1>
 
 <h3 align="center">A passionate  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> developer from Bangladesh</h3>
 
