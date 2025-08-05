@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moeen</h1>
-<h3 align="center">A passionate C# developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/62027833?v=4" alt="Moeen10" /> </p>
+<h3 align="center">A passionate  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> developer from Bangladesh</h3>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  </p>
 
 - 🔭 I’m currently working on **Ecash**
 
