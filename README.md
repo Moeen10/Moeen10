@@ -11,7 +11,7 @@ Hi 👋, I'm Moeen <img src="https://user-images.githubusercontent.com/74038190/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/t-m-moeen-uddin-a09703184/?profileid=acoaacuh7ekbgckdgkqjf7adx2ypqbpkg-kurgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-m-moeen-uddin-a09703184/?profileid=acoaacuh7ekbgckdgkqjf7adx2ypqbpkg-kurgu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/moeen.uddin.718/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-m-moeen-uddin-a09703184/?profileid=acoaacuh7ekbgckdgkqjf7adx2ypqbpkg-kurgu" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/t-m-moeen-uddin-a09703184/?profileid=acoaacuh7ekbgckdgkqjf7adx2ypqbpkg-kurgu" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1331/screenshots/2990914/facebook_brand_by_fantasy.gif" alt="https://www.facebook.com/moeen.uddin.718/" height="30" width="40" /></a>
 </p>
 
 <h3 align="">Languages and Tools:</h3>
